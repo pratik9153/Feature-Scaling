@@ -2,7 +2,7 @@
 Feature scaling adjusts numerical features to a similar scale to prevent certain features from dominating others in machine learning models.
 
 # Types of Feature Scaling 
-1. standard Scaling.
+1. Standard Scaling.
 2. Min-Max Scaling.
 3. Unit vector.
 
